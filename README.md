@@ -9,4 +9,4 @@ Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robus
 
 ## Acknowledgment and Statement
 * Further details about this work will be disclosed upon publication.
-* If you have any inquiries or are interested in collaborating on this topic, please do not hesitate to reach out to [Xiangde Luo](https://luoxd1996.github.io).
+* This project will be co-maintained by [Xiangde Luo](https://luoxd1996.github.io) (from UETSC), [Zihan Li](https://huanglizi.github.io/) (from UW) and Wenjun Liao (from Sichuan Cancer Hospital).
