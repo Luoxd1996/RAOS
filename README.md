@@ -1,5 +1,5 @@
 # <div align=center> RAOS</div>
-*I am busy with graduating, the dataset will be released before July 15, Sorry.*
+**I am busy with graduating, the dataset will be released before July 15, Sorry.**
 Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases.
 * This dataset consists of 413 real clinical ct scans and 413x9 MR scans, all 19 organs were annotated by an senoir oncologist (MD. Wenjun Liao, 10 years experient).
 * There are some challenging cases in clinical practice, which can help to evaluate the generalization and robustness of deep learning methods.
