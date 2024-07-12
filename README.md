@@ -1,5 +1,5 @@
 # <div align=center> RAOS ([dataset&model weight](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing), [paper](https://arxiv.org/abs/2406.13674))</div>
-**Now, the real CT dataset, trained model (based on [nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) and [3D-UXNet](https://github.com/MASILab/3DUX-Net)) and synthetic MRI dataset have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)**
+**Now, the real CT dataset, trained model/log (based on [nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) and [3D-UXNet](https://github.com/MASILab/3DUX-Net)) and synthetic MRI dataset have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)**
 
 Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases.
 * This dataset consists of 413 real clinical CT scans and 413x9 MR scans, all 19 organs were annotated by a senior oncologist (MD. Wenjun Liao, 10 years experiment).
@@ -22,7 +22,7 @@ Don't hesitate to contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. 
 It would be highly appreciated if you cite our paper when using this dataset or code:
 
     @article{luo2022word,
-      title={{WORD}: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image},
+      title={{WORD}: A large-scale dataset, benchmark and clinically applicable study for abdominal organ segmentation from CT image},
       author={Xiangde Luo, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, and Shaoting Zhang},
       journal={Medical Image Analysis},
       volume={82},
@@ -33,7 +33,7 @@ It would be highly appreciated if you cite our paper when using this dataset or 
     @article{luo2024rethinking,
       title={Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases},
       author={Luo, Xiangde and Li, Zihan and Zhang, Shaoting and Liao, Wenjun and Wang, Guotai},
-      booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021},
+      booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
       year={2024},
       pages={}
     }
