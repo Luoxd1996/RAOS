@@ -1,4 +1,4 @@
-# <div align=center> RAOS ([dataset&model weight](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)], [paper](https://arxiv.org/abs/2406.13674))</div>
+# <div align=center> RAOS ([dataset&model weight](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing), [paper](https://arxiv.org/abs/2406.13674))</div>
 **Now, The real CT and dataset and synthetic MRI have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)**
 
 Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases.
