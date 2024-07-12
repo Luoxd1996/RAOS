@@ -1,9 +1,9 @@
-# <div align=center> RAOS</div>
+# <div align=center> RAOS ([dataset&model weight](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)], [paper](https://arxiv.org/abs/2406.13674))</div>
 **Now, The real CT and dataset and synthetic MRI have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)**
 
 Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases.
 * This dataset consists of 413 real clinical CT scans and 413x9 MR scans, all 19 organs were annotated by a senior oncologist (MD. Wenjun Liao, 10 years experiment).
-* There are some challenging cases in clinical practice that can help evaluate the generalization and robustness of deep learning methods.
+* some challenging cases in clinical practice can help evaluate the generalization and robustness of deep learning methods.
 * Some organ annotations not present in previous public datasets (such as prostate, seminal vesicles, etc).
 
 <div align=center>Fig. 1. An example in the dataset (one CT and nine synthesized MR scans).<img src="./pictures/data_show.png"></div>
