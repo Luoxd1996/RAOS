@@ -1,5 +1,5 @@
 # <div align=center> RAOS ([dataset&model weight](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing), [paper](https://arxiv.org/abs/2406.13674))</div>
-**Now, the real CT dataset, trained model/log (based on [nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) and [3D-UXNet](https://github.com/MASILab/3DUX-Net)) and synthetic MRI dataset have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing)**
+**Now, the real CT dataset, trained model/log (based on [nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) and [3D-UXNet](https://github.com/MASILab/3DUX-Net)) and synthetic MRI dataset have been fully released. Please check here [RAOS](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY?usp=sharing).**
 
 Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases.
 * This dataset consists of 413 real clinical CT scans and 413x9 MR scans, all 19 organs were annotated by a senior oncologist (MD. Wenjun Liao, 10 years experiment).
