@@ -40,6 +40,6 @@ It would be highly appreciated if you cite our paper when using this dataset or 
     
 ## Acknowledgment and Statement
 * Further details about this work can be found at [here](https://arxiv.org/abs/2406.13674).
-* Please note that a small part of the RAOS dataset is from our previous WORD (where these cases’ annotations are extended from 16 classes to 19 classes), the overlap patients were listed in the overlap_with_word.csv.
+* Please note that a small part of the RAOS dataset is from our previous [WORD](https://github.com/HiLab-git/WORD) (where these cases’ annotations are extended from 16 classes to 19 classes), the overlap patients were listed in the overlap_with_word.csv.
 * The basic information was listed in raos_dataset_clinical_info.xlsx, where the patient did not have an organ annotation means missing organ after surgery (1-19 in men, female in 1-17).
 * This project will be maintained by [Xiangde Luo](https://luoxd1996.github.io) (from UETSC).
