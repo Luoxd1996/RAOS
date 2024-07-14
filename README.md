@@ -35,8 +35,7 @@ It would be highly appreciated if you cite our paper when using this dataset or 
       author={Luo, Xiangde and Li, Zihan and Zhang, Shaoting and Liao, Wenjun and Wang, Guotai},
       booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
       year={2024},
-      pages={}
-    }
+      pages={}}
     
 ## Acknowledgment and Statement
 * Further details about this work can be found at [here](https://arxiv.org/abs/2406.13674).
