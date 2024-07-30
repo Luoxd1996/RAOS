@@ -10,7 +10,7 @@ Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robus
 <div align=center>Fig. 2. Clinical distribution of the dataset.<img src="./pictures/raos_data_distributation.png"></div>
 
 # DataSet
-Don't hesitate to contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/file/d/1VJQHvQBWfs1sZ6Nt_6lFK6uEx1YP5QK0/view?usp=drive_link), [BaiduPan](https://pan.baidu.com/s/1N12Rh6jM2NRRlp72J7LlNw))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+Don't hesitate to contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google account to download the data ([Goole Driven](https://drive.google.com/drive/folders/1i2xbXxdEYnjNZVUtGZxYdwaeKmNmywnY))**; **2) using your affiliation email to get the unzip password**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
     Primary Affiliation: (The name of your institution or university, etc.)
